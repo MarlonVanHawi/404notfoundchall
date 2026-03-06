@@ -69,4 +69,3 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 
 - GitHub [@MarlonVanHawi](https://{github.com/MarlonVanHawi})
-- Twitter [@yM_vanHawi](https://{https://twitter.com/M_vanHawi})
